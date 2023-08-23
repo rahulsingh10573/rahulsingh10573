@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm I 'm Rahul</h1>
+<h1 align="center">Hey there 👋, I 'm Rahul</h1>
 <h3 align="center">A Full Stack JS developer 🎯 from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrahul573&label=Profile%20views&color=0e75b6&style=flat" alt="rkrahul573" /> </p>
